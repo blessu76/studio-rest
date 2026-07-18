@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://studio.ipe.rest/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://studio.ipe.rest/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://studio.ipe.rest/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://studio.ipe.rest/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://studio.ipe.rest/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://studio.ipe.rest/?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://studio.ipe.rest/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://studio.ipe.rest/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://studio.ipe.rest/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://studio.ipe.rest/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://studio.ipe.rest/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://studio.ipe.rest/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://studio.ipe.rest/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://studio.ipe.rest/?lang=id"/>
+  </url>
+</urlset>
